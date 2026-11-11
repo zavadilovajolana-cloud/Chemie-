@@ -1,0 +1,6 @@
+{
+  "name": "Chemie lidsky – Srozumitelná středoškolská chemie",
+  "description": "Bezplatný vzdělávací portál a lektor chemie pro střední školy, maturanty a uchazeče o medicínu a VŠCHT. Srozumitelné výpisky, příklady ze života, kalkulačky a generátor obsahu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
